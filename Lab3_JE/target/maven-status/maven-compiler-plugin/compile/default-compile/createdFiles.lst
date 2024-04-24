@@ -1,0 +1,5 @@
+com\example\spring_data_jpa_mysql_book\book\Book.class
+com\example\spring_data_jpa_mysql_book\book\BookRepository.class
+com\example\spring_data_jpa_mysql_book\SpringDataJpaMysqlBookApplication.class
+com\example\spring_data_jpa_mysql_book\book\BookService.class
+com\example\spring_data_jpa_mysql_book\book\BookController.class
